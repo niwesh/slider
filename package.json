@@ -68,10 +68,7 @@
     "type": "git",
     "url": "git://github.com/PolymerElements/paper-slider.git"
   },
-  "scripts": {
-    "format": "webmat",
-    "generate-types": "gen-typescript-declarations --deleteExisting --outDir . --verify",
-    "prepare": "npm run generate-types"
+  
   },
   "version": "3.0.1"
 }
